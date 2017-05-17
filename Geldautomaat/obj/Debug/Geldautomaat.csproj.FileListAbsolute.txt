@@ -4,3 +4,6 @@ C:\Users\Milan\Documents\Visual Studio 2015\Projects\Exercises Dev 2-4\Geldautom
 C:\Users\Milan\Documents\Visual Studio 2015\Projects\Exercises Dev 2-4\Geldautomaat\Geldautomaat\obj\Debug\Geldautomaat.csprojResolveAssemblyReference.cache
 C:\Users\Milan\Documents\Visual Studio 2015\Projects\Exercises Dev 2-4\Geldautomaat\Geldautomaat\obj\Debug\Geldautomaat.exe
 C:\Users\Milan\Documents\Visual Studio 2015\Projects\Exercises Dev 2-4\Geldautomaat\Geldautomaat\obj\Debug\Geldautomaat.pdb
+C:\Users\Milan\Documents\GitHub\Geldautomaat\Geldautomaat\bin\Debug\Geldautomaat.exe.config
+C:\Users\Milan\Documents\GitHub\Geldautomaat\Geldautomaat\obj\Debug\Geldautomaat.exe
+C:\Users\Milan\Documents\GitHub\Geldautomaat\Geldautomaat\obj\Debug\Geldautomaat.pdb

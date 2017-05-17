@@ -109,7 +109,7 @@ namespace Geldautomaat
 
                 else if (nieuwsaldo < 0)
                 {
-                    if (rekening.kredietlimiet + nieuwsaldo > 0)
+                    if (rekening.kredietlimiet + nieuwsaldo >= 0)
                     {
                         Console.WriteLine("Oud Saldo" + rekening.Saldo);
                         rekening.Saldo = nieuwsaldo;
